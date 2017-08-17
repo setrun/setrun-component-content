@@ -9,6 +9,7 @@ return [
     'content' => [
         'label' => Yii::t('setrun/content', 'Content'),
         'url'   => '#',
+        'icon'  => 'sticky-note',
         'items' => [
             [
                 'label'      => Yii::t('setrun/content', 'Categoties'),
