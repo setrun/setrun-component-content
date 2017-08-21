@@ -1,5 +1,5 @@
 {
-    "name": "setrun/setrun-content-component",
+    "name": "setrun/setrun-component-content",
     "description": "Content component for SETRUN CMS",
     "keywords": ["yii2", "yii2-extension", "yii2-cms", "cms", "setrun", "setrun-cms", "setrun-extension"],
     "homepage": "http://setrun.ru",
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "setrun/setrun-sys-component": "*",
+        "setrun/setrun-component-sys": "*",
         "yii2tech/ar-linkmany": "^1.0",
         "la-haute-societe/yii2-save-relations-behavior": "^1.2",
         "paulzi/yii2-auto-tree" : "^1.0",
