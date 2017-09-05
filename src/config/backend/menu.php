@@ -9,10 +9,10 @@ return [
     'content' => [
         'label' => Yii::t('setrun/content', 'Content'),
         'url'   => '#',
-        'icon'  => 'sticky-note',
+        'icon'  => 'clone',
         'items' => [
             [
-                'label'      => Yii::t('setrun/content', 'Categoties'),
+                'label'      => Yii::t('setrun/content', 'Categories'),
                 'url'        => ['/content/backend/category/index'],
                 'controller' => 'backend/content-category',
             ],
